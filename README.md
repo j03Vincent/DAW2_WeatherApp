@@ -1,3 +1,7 @@
+Se trata de una aplicación meteorológica que utiliza el servicio de la API de OpenWeather para obtener datos acerca de la velocidad del viento, el porcentaje de nubes, la temperatura real, la temperatura mínima y máxima, el porcentaje de humedad y la presión. La imagen de fondo cambia cuando la temperatura es fría (<27) o cálida (>=27). Esta página web tambíen solicita permiso a la ubicación actual para poder mostrar el tiempo en el que se encuentra la zona.
+
+Para poder ver el despliegue de la página en github, haz clic en [este enlace.](https://j03vincent.github.io/DAW2_WeatherApp/) 
+
 # DAW2WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
