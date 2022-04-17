@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+main {
+    font-family: 'Poppins',sans-serif;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.3);
+    background-blend-mode: soft-light;
+    transition: all 0.8s;
+}
+main .weather-app {
+    font-family: 'Poppins',sans-serif;
+    padding: 36px;
+    width: 360px;
+    height: 640px;
+    background-color: #E9B329;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    transition: all 0.8s;
+}
+main .weather-app img {
+    position: absolute;
+    top: 70px;
+    right: 0;
+}
+main .weather-app app-details {
+    height: 100%;
+}
